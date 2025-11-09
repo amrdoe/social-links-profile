@@ -44,9 +44,11 @@
           color: white;
           
           /* Center the card on the page */
-          display: grid;
-          place-items: center;
-          min-height: 100vh;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
           
           /* Add padding for the mobile view */
           padding: 1.5rem; 
@@ -131,6 +133,9 @@
         font-size: 11px;
         text-align: center;
         color: white;
+        position: fixed;
+        bottom: 0;
+        padding: 12px 0;
       }
 
       .attribution a {
