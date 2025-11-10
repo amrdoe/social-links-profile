@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-social-links-profile-page-using-html5-and-css3-F59nkzhih9
 - Live Site URL: https://amrdoe.github.io/social-links-profile
 
 ## My process
